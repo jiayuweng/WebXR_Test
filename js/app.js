@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/webXR.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/webAR_test.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
